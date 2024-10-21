@@ -30,6 +30,7 @@ The app uses a public weather API to retrieve data. To use it:
 1.Get an API key from OpenWeather.
 
 2.Replace the placeholder in your JavaScript file with your API key
+
   const APIKey = 'YOUR_API_KEY';
 
    
