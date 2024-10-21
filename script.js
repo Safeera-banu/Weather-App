@@ -5,7 +5,7 @@ const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
 const loadingSpinner = document.querySelector('.loading-spinner');
-const APIKey = 'dcc4da9ede1f9431798e70e72bf47eda';
+const APIKey = 'YOUR_API_KEY';
 
 function displayWeather(json) {
     weatherBox.classList.add('active');
